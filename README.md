@@ -14,15 +14,15 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] User sees app icon in home screen and styled bottom navigation view - **shown in part 1 gif**
+- [x] User sees app icon in home screen and styled bottom navigation view --> (shown in part 1 gif)
 - [x] Style the feed to look like the real Instagram feed.
 - [ ] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling.
 - [x] Show the username and creation time for each post.
 - [ ] User can tap a post to view post details, including timestamp and caption.
 - [ ] User Profiles
-      - [ ] Allow the logged in user to add a profile photo
-      - [ ] Display the profile photo with each post
-      - [ ] Tapping on a post's username or profile photo goes to that user's profile page and shows a grid view of the user's posts 
+     - [ ]  Allow the logged in user to add a profile photo
+     - [ ]  Display the profile photo with each post
+     - [ ]  Tapping on a post's username or profile photo goes to that user's profile page and shows a grid view of the user's posts 
 - [ ] User can comment on a post and see all comments for each post in the post details screen.
 - [ ] User can like a post and see number of likes for each post in the post details screen.
 
@@ -34,7 +34,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Refreshing the feed, Profile and Home Fragments, and timestamp shown. 
+
+<img src='https://github.com/andersontan1998/InstagramClone/blob/main/Refresh_Fragments.gif' width=350><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
