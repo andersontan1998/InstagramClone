@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] User sees app icon in home screen and styled bottom navigation view --> (shown in part 1 gif)
+- [x] User sees app icon in home screen and styled bottom navigation view --> (app icon shown in part 1 gif)
 - [x] Style the feed to look like the real Instagram feed.
 - [ ] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling.
 - [x] Show the username and creation time for each post.
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Refreshing the feed, Profile and Home Fragments, and timestamp shown. 
+Refreshing the feed, Profile and Home fragments, and the Timestamp for each post is shown below. 
 
 <img src='https://github.com/andersontan1998/InstagramClone/blob/main/Refresh_Fragments.gif' width=350><br>
 
